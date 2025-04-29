@@ -25,9 +25,12 @@ We explore the relationship between brain activity and music perception by build
 - Full Linearity for better feature interpretability.
 - Brain Activity Captures Musical Semantics.
 
-# Team Yellow – MIND Hackathon
+# Run
 
+In the src folder, we have provided two easy-to-use notebooks for the supervised and self-supervised fusion framework. Please change your data paths accordingly.
 
 # Link to the trained supervised model
 
 The supervised model weights can be found at https://drive.google.com/file/d/1wIArSbeqgtdVjGCMpT1Mw2-9OcB-GvdD/view?usp=sharing
+
+# Team Yellow – MIND Hackathon
