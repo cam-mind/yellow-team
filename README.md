@@ -26,3 +26,8 @@ We explore the relationship between brain activity and music perception by build
 - Brain Activity Captures Musical Semantics.
 
 # Team Yellow – MIND Hackathon
+
+
+# Link to the trained supervised model
+
+The supervised model weights can be found at https://drive.google.com/file/d/1wIArSbeqgtdVjGCMpT1Mw2-9OcB-GvdD/view?usp=sharing
