@@ -33,4 +33,6 @@ In the src folder, we have provided two easy-to-use notebooks for the supervised
 
 The supervised model weights can be found at https://drive.google.com/file/d/1wIArSbeqgtdVjGCMpT1Mw2-9OcB-GvdD/view?usp=sharing
 
-# Team Yellow – MIND Hackathon
+# Team Yellow – MIND Hackathon Presentation Download Link
+
+https://docs.google.com/presentation/d/1MtFk89UXxywOB0Fw8p8BR2spbh8IJdgr/edit?usp=sharing&ouid=108632635720761470695&rtpof=true&sd=true
