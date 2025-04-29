@@ -35,4 +35,4 @@ The supervised model weights can be found at https://drive.google.com/file/d/1wI
 
 # Team Yellow – MIND Hackathon Presentation Download Link
 
-https://docs.google.com/presentation/d/1MtFk89UXxywOB0Fw8p8BR2spbh8IJdgr/edit?usp=sharing&ouid=108632635720761470695&rtpof=true&sd=true
+[https://docs.google.com/presentation/d/1MtFk89UXxywOB0Fw8p8BR2spbh8IJdgr/edit?usp=sharing&ouid=108632635720761470695&rtpof=true&sd=true](https://drive.google.com/file/d/1FUaG8RX4K_zIxXzo2YD1bxupmzlwP-kS/view?usp=sharing)
